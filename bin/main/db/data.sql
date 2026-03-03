@@ -10,7 +10,7 @@ VALUES ('Silver',0.0025,null),
 	 ('abc', '$2a$10$nxanAcpAnZv3qVxuRq0rBuVz.cRLE.1mDgcGhI.SAwf0a54fmCp1e', '회원', '2023-05-04', NULL, 0),
 	 ('a123', '$2a$10$nxanAcpAnZv3qVxuRq0rBuVz.cRLE.1mDgcGhI.SAwf0a54fmCp1e', '회원', '2023-05-04', NULL, 0),
 	 ('asdf', '$2a$10$nxanAcpAnZv3qVxuRq0rBuVz.cRLE.1mDgcGhI.SAwf0a54fmCp1e', '관리자', '2023-05-06', NULL, 0);
-	('a123', '$2a$10$nxanAcpAnZv3qVxuRq0rBuVz.cRLE.1mDgcGhI.SAwf0a54fmCp1e', '회원', '2026-05-04', NULL, 0),
+	('a123', '$2a$10$nxanAcpAnZv3qVxuRq0rBuVz.cRLE.1mDgcGhI.SAwf0a54fmCp1e', '회원', '2027-05-04', NULL, 0),
 
 
 INSERT INTO member_tb
